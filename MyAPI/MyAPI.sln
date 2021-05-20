@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAPI", "MyAPI\MyAPI.csproj", "{78B2769C-D6BD-44E3-AF98-02CABED1E089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDBA", "MyDBA\MyDBA.csproj", "{5DB7A864-6C45-4690-A674-B631B664B9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B2769C-D6BD-44E3-AF98-02CABED1E089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B2769C-D6BD-44E3-AF98-02CABED1E089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B2769C-D6BD-44E3-AF98-02CABED1E089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B2769C-D6BD-44E3-AF98-02CABED1E089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB7A864-6C45-4690-A674-B631B664B9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB7A864-6C45-4690-A674-B631B664B9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB7A864-6C45-4690-A674-B631B664B9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB7A864-6C45-4690-A674-B631B664B9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {353AEF74-93D9-4ED9-AEE0-0A28688C4A82}
+	EndGlobalSection
+EndGlobal
